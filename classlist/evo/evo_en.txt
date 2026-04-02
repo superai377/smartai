@@ -22,12 +22,12 @@
       "isclass": 1
     },
     {
-      "name": "kids",
+      "name": "Kids",
       "id": 16,
       "isclass": 1
     },
     {
-      "name": "sport",
+      "name": "Sport",
       "id": 17,
       "isclass": 1
     }
