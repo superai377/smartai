@@ -1,1 +1,36 @@
-
+{
+  "code": 0,
+  "data": [
+    {
+      "name": "电影",
+      "id": 14,
+      "isclass": 1
+    },
+    {
+      "name": "电视剧",
+      "id": 13,
+      "isclass": 1
+    },
+    {
+      "name": "综艺",
+      "id": 15,
+      "isclass": 1
+    },
+    {
+      "name": "动漫",
+      "id": 25,
+      "isclass": 1
+    },
+    {
+      "name": "少儿",
+      "id": 16,
+      "isclass": 1
+    },
+    {
+      "name": "体育",
+      "id": 17,
+      "isclass": 1
+    }
+  ],
+  "msg": "success"
+}
