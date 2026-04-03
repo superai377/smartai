@@ -1,1 +1,36 @@
-
+{
+  "code": 0,
+  "data": [
+    {
+      "name": "Film",
+      "id": 14,
+      "isclass": 1
+    },
+    {
+      "name": "Drama",
+      "id": 13,
+      "isclass": 1
+    },
+    {
+      "name": "Variety",
+      "id": 15,
+      "isclass": 1
+    },
+    {
+      "name": "Comic",
+      "id": 25,
+      "isclass": 1
+    },
+    {
+      "name": "Kids",
+      "id": 16,
+      "isclass": 1
+    },
+    {
+      "name": "Sport",
+      "id": 17,
+      "isclass": 1
+    }
+  ],
+  "msg": "success"
+}
